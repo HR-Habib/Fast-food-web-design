@@ -1,0 +1,91 @@
+#promo {
+  text-align:center;
+  padding:100px 200px;
+  background:url(../../assets/img/promo.jpg);
+  background-size:cover;
+  margin-top:50px;
+}
+
+#promo {
+  text-align:center;
+  padding:100px 200px;
+  background:url(../../assets/img/promo.jpg);
+  background-size:cover;
+  margin-top:50px;
+}
+
+#logo {
+  max-height:40px;
+  display:inline-block;
+  margin-bottom:5px;
+}
+
+#promo p {
+  color:rgb(255,255,255);
+}
+
+#promo h1 {
+  color:rgb(20,60,89);
+}
+
+#promo .jumbotron {
+  border-radius:30px;
+  background-color:rgba(255, 255, 255, .3);
+  margin-top:40px;
+}
+
+@media (max-width: 991px) {
+  #promo {
+    padding:50px;
+  }
+}
+
+.welcome {
+  text-align:center;
+  padding:40px 0 10px 0;
+}
+
+.welcome h1 {
+  margin-bottom:20px;
+  color:#e38f41;
+}
+
+.welcome p {
+  color:rgb(166,81,0);
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+  background-color:yellow;
+}
+
+.why_us {
+  text-align:center;
+  padding-top:20px;
+}
+
+.gallery {
+  padding-top:20px;
+}
+
+.why_us h1 {
+  font-weight:normal;
+  color:rgb(227,143,65);
+}
+
+.row.site_section i {
+  font-size:50px;
+  color:#e38f41;
+}
+
+.row.site_section h2 {
+  font-weight:normal;
+}
+
+.site_section p {
+  margin:20px 0;
+}
+
+#designer p {
+  padding-top:8px;
+}
+
